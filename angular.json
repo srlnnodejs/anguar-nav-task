@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngCLient"
+    }
+  },
+  "defaultProject": "ngCLient",
+  "cli": {
+    "analytics": "961005e0-cf93-433c-b56e-42f310b93110"
+  }
 }
